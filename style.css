@@ -1,0 +1,9 @@
+.box {
+    box-sizing: border-box;
+    justify-content: center;
+    color: black;
+    background-color: wheat;
+    font-size: large;
+    font-weight: 400;
+    font-family: sans-serif;
+}
